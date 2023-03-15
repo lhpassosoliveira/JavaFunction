@@ -1,2 +1,0 @@
-# JavaFunction
-Java
